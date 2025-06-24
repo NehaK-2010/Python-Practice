@@ -1,4 +1,4 @@
-name,age,city,state,zip,phone,loan_type,loan_amount,loan_term,interest_rate,down_payment,property_type,property_value,property_zip,property_city,property_state
+e,age,city,state,zip,phone,loan_type,loan_amount,loan_term,interest_rate,down_payment,property_type,property_value,property_zip,property_city,property_state
 John,35,New York,NY,10001,123-456-7890,Conventional,200000,30,4.5,20000,Single Family,300000,10001,New York,NY
 Jane,40,Los Angeles,CA,90001,555-555-5555,Conventional,300000,30,4.5,30000,Single Family,400000,90001,Los Angeles,CA
 Bob,30,Chicago,IL,60601,999-999-9999,Conventional,400000,30,4.5,40000,Single Family,500000,60601,Chicago,IL
