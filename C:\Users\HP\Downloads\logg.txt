@@ -1,0 +1,7 @@
+2025-06-27 10:25:47,077 - INFO - Valid age: 30
+2025-06-27 10:27:37,161 - INFO - Received command c on object id p0
+2025-06-27 10:27:41,306 - INFO - Valid age: 30
+2025-06-27 10:28:48,419 - INFO - Received command c on object id p0
+2025-06-27 10:28:51,309 - INFO - Valid age: 30
+2025-06-27 10:33:53,155 - INFO - Received command c on object id p0
+2025-06-27 10:34:21,542 - INFO - Received command c on object id p0
